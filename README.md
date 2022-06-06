@@ -1,3 +1,3 @@
-# My Lettcode Practice
+# My Leetcode Practice
 
 Just my Leetcode practice.
